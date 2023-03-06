@@ -54,6 +54,7 @@ Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
+Build/Android/*
 Build/*/**
 !Build/*/PakBlacklist*.txt
 
